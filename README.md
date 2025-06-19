@@ -1,3 +1,5 @@
+This is a forked from [youwen5/zen-browser-flake](https://github.com/youwen5/zen-browser-flake) and is only used when the zen browser github page is down, this occured in 6/18/25.
+
 # Zen Browser for Nix
 
 This is a flake for the Zen browser. Originally forked from the unmaintained

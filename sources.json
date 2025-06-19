@@ -1,11 +1,11 @@
 {
   "version": "1.13.2b",
   "x86_64-linux": {
-    "url": "https://github.com/zen-browser/desktop/releases/download/1.13.2b/zen.linux-x86_64.tar.xz",
+    "url": "https://github.com/zen-browser-auto/www-temp/releases/latest/download/zen.linux-x86_64.tar.xz",
     "hash": "sha256-GOD/qZsdCIgldRsOR/Hxo+mB0K7iutKt9XYUj9+6Tgc="
   },
   "aarch64-linux": {
-    "url": "https://github.com/zen-browser/desktop/releases/download/1.13.2b/zen.linux-aarch64.tar.xz",
+    "url": "https://github.com/zen-browser-auto/www-temp/releases/latest/download/zen.linux-aarch64.tar.xz",
     "hash": "sha256-ONPAdtRAdRf4Mksv6aXPat2icN2SZ/gGeZYziqDWVYQ="
   }
 }
